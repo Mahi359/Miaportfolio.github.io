@@ -20,7 +20,7 @@ html, body {
     The original images are all different sizes but we need
     them to be consistent for the gallery layout to look good.
     */
-    height: 400px;
+    height: 100px;
 
     /* add an outline around each picture */
     border: 15px groove #4f68b0;
